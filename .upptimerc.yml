@@ -6,7 +6,7 @@ sites:
   - name: Webex
 
 assignees: # Users to assign downtime issues (optional)
-  - senoa-n
+  - SENOA-N
 status-website: # Status website (optional)
   # cname: upptime.js.org # Custom domain CNAME
   baseUrl: /repo # where "repo" is your repository name
