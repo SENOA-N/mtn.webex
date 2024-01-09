@@ -1,6 +1,6 @@
 # Change these first
 owner: senoa-n # Your GitHub organization or username, where this repository lives
-repo: upptime-wx # The name of this repository
+repo: mtn.webex # The name of this repository
 
 sites:
   - name: Webex
