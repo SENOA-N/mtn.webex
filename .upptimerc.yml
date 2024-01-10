@@ -14,3 +14,6 @@ status-website: # Status website (optional)
   name: MTN Webex Status # Status website title
   themeUrl: assets/dark.css
   logoUrl: assets/MTN-Dark.png
+status-website:
+  introTitle: "**MTN Webex Status** Look at MTN Webex uptime and incident report"
+  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages.
