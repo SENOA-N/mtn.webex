@@ -13,7 +13,7 @@ status-website: # Status website (optional)
   baseUrl: /mtn.webex # where "repo" is your repository name
   name: MTN Webex Status # Status website title
   themeUrl: https://github.com/SENOA-N/mtn.webex/assets/light.css
-  logoUrl: https://github.com/SENOA-N/mtn.webex/assets/MTN-Light.png
+  logoUrl: https://github.com/SENOA-N/mtn.webex/assets/MTN-Light.svg
   introTitle: "**MTN Webex Status** Look at MTN Webex uptime and incident report"
   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages.
   favicon: https://github.com/SENOA-N/mtn.webex/assets/MTN-Light.png
