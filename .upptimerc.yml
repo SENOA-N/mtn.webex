@@ -11,3 +11,4 @@ status-website: # Status website (optional)
   # cname: upptime.js.org # Custom domain CNAME
   baseUrl: /mtn.webex # where "repo" is your repository name
   name: MTN Webex Status # Status website title
+  themeUrl: assets/dark.css
