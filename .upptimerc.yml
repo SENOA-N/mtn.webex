@@ -10,5 +10,5 @@ assignees: # Users to assign downtime issues (optional)
   - SENOA-N
 status-website: # Status website (optional)
   # cname: upptime.js.org # Custom domain CNAME
-  baseUrl: /repo # where "repo" is your repository name
+  baseUrl: /mtn.webex # where "repo" is your repository name
   name: MTN Webex Status# Status website title
