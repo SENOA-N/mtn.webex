@@ -12,3 +12,4 @@ status-website: # Status website (optional)
   baseUrl: /mtn.webex # where "repo" is your repository name
   name: MTN Webex Status # Status website title
   themeUrl: assets/dark.css
+  logoUrl: assets/MTN-Dark.png
