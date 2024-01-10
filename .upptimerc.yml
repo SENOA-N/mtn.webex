@@ -4,7 +4,6 @@ repo: mtn.webex # The name of this repository
 user-agent: SENOA-N
 sites:
   - name: Webex
-    url: https://www.fake.io.dsd/
 
 assignees: # Users to assign downtime issues (optional)
   - SENOA-N
