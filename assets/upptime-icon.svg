@@ -1,4 +1,11 @@
-<svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- <svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
   <path d="M53.7565 32.9636L33.9514 10.8852L26.8782 3L19.805 10.8852L0 32.9636L7.07316 40.8488L26.8782 18.7703L46.6833 40.8488L53.7565 32.9636Z" fill="#1ABC9C"/>
   <ellipse cx="26.5659" cy="42.375" rx="7.81344" ry="7.63081" fill="#1ABC9C"/>
-</svg>
+</svg> -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="54" height="54"><svg version="1.1" id="SvgjsSvg1000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 54 54" style="enable-background:new 0 0 652 652;" xml:space="preserve">
+<path d="M326,176c-165.7,0-300,67.2-300,150s134.3,150,300,150s300-67.2,300-150S491.7,176,326,176z M326,452.3
+	c-152.6,0-276.3-56.6-276.3-126.3S173.4,199.7,326,199.7S602.3,256.2,602.3,326S478.6,452.3,326,452.3z M288.2,299.7V276h84.6v23.7
+	h-30.5V376h-23.7v-76.3H288.2z M475,276v100h-23.7l-43-59.5V376h-23.7V276h23.7l43,59.5V276L475,276z M176.3,376V276H200l26.3,40.5
+	l26.3-40.5h23.7v100h-23.7v-56.6l-18,27.6H218l-18-27.6V376H176.3z"></path>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+</style></svg>
