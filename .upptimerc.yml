@@ -4,7 +4,7 @@ repo: mtn.webex # The name of this repository
 user-agent: SENOA-N
 sites:
   - name: Webex
-    url: https://www.google.com/
+    url: https://www.google.com/ 
 
 assignees: # Users to assign downtime issues (optional)
   - SENOA-N
