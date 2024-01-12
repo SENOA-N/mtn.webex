@@ -5,7 +5,6 @@ user-agent: SENOA-N
 sites:
   - name: Webex
     url: https://www.google.com/
-
 assignees: # Users to assign downtime issues (optional)
   - SENOA-N
 status-website: # Status website (optional)
