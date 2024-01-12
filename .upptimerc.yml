@@ -14,7 +14,7 @@ status-website: # Status website (optional)
   themeUrl: https://senoa-n.github.io/mtn.webex/dark.css
   logoUrl: https://senoa-n.github.io/mtn.webex/MTN-Light.png # https://github.com/SENOA-N/mtn.webex/assets/MTN-Light.svg
   introTitle: "**MTN Webex Status** Live incident and status updates"
-  introMessage: This portal gives live updates of MTN Webex services and is currently in the **test phase**. **Ignore all status and incident updates on this page.**
+  introMessage: "This portal gives live updates of MTN Webex services and is currently in the **test phase**. **Ignore all status and incident updates on this page.**"
   favicon: https://senoa-n.github.io/mtn.webex/MTN-Light.png
   faviconSvg: https://senoa-n.github.io/mtn.webex/MTN-Light.svg
 
