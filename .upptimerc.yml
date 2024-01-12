@@ -7,6 +7,7 @@ sites:
     url: https://www.google.com/
 assignees: # Users to assign downtime issues (optional)
   - SENOA-N
+
 status-website: # Status website (optional)
   # cname: upptime.js.org # Custom domain CNAME
   baseUrl: /mtn.webex # where "repo" is your repository name
