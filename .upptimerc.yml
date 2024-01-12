@@ -12,7 +12,7 @@ status-website: # Status website (optional)
   # cname: upptime.js.org # Custom domain CNAME
   baseUrl: /mtn.webex # where "repo" is your repository name
   name: MTN Webex Status # Status website title
-  themeUrl: https://github.com/SENOA-N/mtn.webex/assets/light.css
+  themeUrl: https://github.com/SENOA-N/light.css
   logoUrl: https://github.com/SENOA-N/mtn.webex/blob/master/assets/MTN-Light.png # https://github.com/SENOA-N/mtn.webex/assets/MTN-Light.svg
   introTitle: "**MTN Webex Status** Live incident and status updates"
   introMessage: This portal gives live updates of MTN Webex services and is currently in the **test phase**. **Ignore all status and incident updates on this page.**
