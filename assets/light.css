@@ -1,7 +1,7 @@
 :root {
-  --body-background-color: #001716;
-  --body-text-color: #f0ffff;
-  --card-background-color: #002b29;
-  --nav-background-color: #002b29;
-  --nav-border-bottom-color: #015450;
+  --body-background-color: #00A859;   /* MTN Green */
+  --body-text-color: #FFCB05;        /* MTN Yellow */
+  --card-background-color: #004080;  /* MTN Blue */
+  --nav-background-color: #004080;   /* MTN Blue */
+  --nav-border-bottom-color: #F68D2E; /* MTN Orange */
 }
