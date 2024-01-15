@@ -5,7 +5,7 @@ user-agent: SENOA-N
 sites:
   - name: Webex
     url: https://status.webex.com/status.json
-    check: "{'status':{'indicator':'red'}}"
+    # check: "{'status':{'indicator':'red'}}"
 assignees: # Users to assign downtime issues (optional)
   - SENOA-N
 
