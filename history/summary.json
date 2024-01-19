@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.webex.com.ico",
     "slug": "webex",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 157,
-    "timeWeek": 118,
-    "timeMonth": 109,
-    "timeYear": 109,
-    "dailyMinutesDown": {}
+    "uptime": "94.01%",
+    "uptimeDay": "47.75%",
+    "uptimeWeek": "92.54%",
+    "uptimeMonth": "94.01%",
+    "uptimeYear": "94.01%",
+    "time": 116,
+    "timeDay": 414,
+    "timeWeek": 136,
+    "timeMonth": 116,
+    "timeYear": 116,
+    "dailyMinutesDown": {
+      "2024-01-19": 140,
+      "2024-01-18": 613
+    }
   }
 ]
